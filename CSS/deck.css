@@ -8,24 +8,19 @@
     margin-top: 5%;
 }
 
-a{
-    display: flex;
-    margin-top: 3%;
-    font-size: 25px;
-}
-
-
 img{
-    width:9% ;
+    width: 9%;
     height: 9%;
 }
 
 #extra_deck,
 #main_deck{
     width:75% ;
-    height: 25%;
     margin: 0 auto;
+    height: 100;
 }
+
+
 
 #video-container{
     margin-top: 5%;
