@@ -17,6 +17,12 @@ span{
     margin-bottom: -5%;
     text-align: center;
 }
+a{
+    cursor: crosshair;
+    text-decoration: none; 
+    color: inherit;         
+    font-weight: normal;
+}
 
 .cite {
     text-align: center;
