@@ -1,36 +1,51 @@
-#cv{
-    background-color: blue;
-    height: 100vh;
-    width: 100%;
+.color {
+    border: solid;
+    border-color: #704214;
+    border-radius: 15px;
+    margin-left: 1vh;
+    margin-right: 1vh;
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+    color: azure;
+    background-color:#c49662 ;
 }
 
-#top{
-    background-color: bisque;
-    height: 20vh;
+
+#cv{
+    background-image: url("../image/Fond\ gris.PNG");
+    background-size: cover;
+    height: 75rem;
+}
+
+button {
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#top {
+
     width: 100%;
     float: inline-start;
     align-content: center;
+
 }
 
-#left{
-    background-color: bisque;
-    height: 80vh;
+#left {
     width: 25%;
     float: left;
 }
 
-#right{
-    background-color: white;
-    height: 80vh;    
+#right {
     width: 75%;
     float: right;
 }
 
 h6,
-h3{
+h3 {
     margin-left: 10px;
+    margin-top: 1%;
 }
 
-button{
+button {
     background-color: whitesmoke;
 }
